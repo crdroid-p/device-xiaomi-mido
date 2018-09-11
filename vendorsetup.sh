@@ -1,1 +1,1 @@
-add_lunch_combo aosip_mido-eng
+add_lunch_combo xtended_mido-eng
